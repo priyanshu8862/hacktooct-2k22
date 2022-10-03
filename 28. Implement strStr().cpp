@@ -1,5 +1,4 @@
 //KMP
-//https://gist.github.com/hsinewu/44a1ce38a1baf47893922e3f54807713
 //Runtime: 12 ms, faster than 25.32% of C++ online submissions for Implement strStr().
 //Memory Usage: 7 MB, less than 100.00% of C++ online submissions for Implement strStr().
 class Solution {
@@ -80,7 +79,6 @@ public:
 };
 
 //Brute force
-//https://leetcode.com/problems/implement-strstr/discuss/12807/Elegant-Java-solution
 //Runtime: 0 ms, faster than 100.00% of C++ online submissions for Implement strStr().
 //Memory Usage: 7 MB, less than 100.00% of C++ online submissions for Implement strStr().
 class Solution {
@@ -101,8 +99,6 @@ public:
 };
 
 //KMP
-//https://leetcode.com/problems/implement-strstr/discuss/12956/C%2B%2B-Brute-Force-and-KMP
-//https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/
 //Runtime: 36 ms, faster than 20.93% of C++ online submissions for Implement strStr().
 //Memory Usage: 7 MB, less than 100.00% of C++ online submissions for Implement strStr().
 class Solution {
