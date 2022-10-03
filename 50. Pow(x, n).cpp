@@ -8,7 +8,6 @@ public:
 };
 
 //divide and conquer, recursion
-//https://leetcode.com/problems/powx-n/discuss/19546/Short-and-easy-to-understand-solution
 //Runtime: 0 ms, faster than 100.00% of C++ online submissions for Pow(x, n).
 //Memory Usage: 5.9 MB, less than 95.42% of C++ online submissions for Pow(x, n).
 class Solution {
@@ -44,7 +43,6 @@ public:
 };
 
 //iterative
-//https://leetcode.com/problems/powx-n/discuss/19544/5-different-choices-when-talk-with-interviewers
 //Runtime: 0 ms, faster than 100.00% of C++ online submissions for Pow(x, n).
 //Memory Usage: 6 MB, less than 60.70% of C++ online submissions for Pow(x, n).
 class Solution {
